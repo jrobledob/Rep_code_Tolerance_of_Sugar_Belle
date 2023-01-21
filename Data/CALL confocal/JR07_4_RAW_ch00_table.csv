@@ -1,0 +1,10 @@
+object_id,timestep,labelimage_oid,User Label,Predicted Class,Probability of Callose,Probability of Label 2,Size in pixels,Bounding Box Minimum_0,Bounding Box Minimum_1,Bounding Box Maximum_0,Bounding Box Maximum_1,Center of the object_0,Center of the object_1
+0,0,1,0,Callose,1.0,0.0,27.0,913.0,7.0,918.0,14.0,914.7778,10.0
+1,0,2,0,Callose,1.0,0.0,52.0,983.0,36.0,992.0,46.0,986.1539,41.326923
+2,0,3,0,Callose,1.0,0.0,22.0,910.0,152.0,918.0,156.0,914.2273,153.59091
+3,0,4,0,Callose,1.0,0.0,38.0,976.0,303.0,980.0,315.0,977.5526,308.6579
+4,0,5,0,Callose,1.0,0.0,60.0,982.0,406.0,990.0,421.0,985.4167,414.63333
+5,0,6,0,Callose,1.0,0.0,21.0,511.0,540.0,515.0,549.0,512.381,543.5238
+6,0,7,0,Callose,1.0,0.0,37.0,458.0,776.0,465.0,783.0,460.9189,778.5135
+7,0,8,0,Callose,1.0,0.0,85.0,957.0,943.0,970.0,956.0,962.16473,948.4235
+8,0,9,0,Callose,1.0,0.0,38.0,489.0,999.0,498.0,1005.0,493.05264,1001.7105

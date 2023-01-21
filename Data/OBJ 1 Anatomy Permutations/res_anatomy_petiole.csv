@@ -1,0 +1,11 @@
+"variable","Cultivar","value_inf_vs_healthy","p_value"
+"pith_petiole","PA",2.7124328945193,0.602
+"pith_petiole","SB",2.55614946574943,0.602
+"xylem_petiole","PA",1.92281667284423,0.6244
+"xylem_petiole","SB",1.75752407343032,0.6244
+"phloem_petiole","PA",1.28686053084502,0.8568
+"phloem_petiole","SB",0.927683727536734,0.8568
+"xylem_petiole_percent","PA",1.04026863586404,0.1478
+"xylem_petiole_percent","SB",1.16320851636799,0.1478
+"phloem_petiole_percent","PA",0.716051953848632,0.681
+"phloem_petiole_percent","SB",0.597152153370506,0.681

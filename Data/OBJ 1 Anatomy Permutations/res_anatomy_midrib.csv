@@ -1,0 +1,11 @@
+"variable","Cultivar","value_inf_vs_healthy","p_value"
+"pith_midrib","PA",3.32493213663617,0.9998
+"pith_midrib","SB",1.38402640792142,0.9998
+"xylem_midrib","PA",2.4756910186474,0.9956
+"xylem_midrib","SB",1.33282377476109,0.9956
+"phloem_midrib","PA",2.2252865762979,1
+"phloem_midrib","SB",0.801137876626483,1
+"xylem_midrib_per","PA",1.02005781161691,0.0314
+"xylem_midrib_per","SB",1.143652125616,0.0314
+"phloem_midrib_per","PA",0.84633024786329,0.5748
+"phloem_midrib_per","SB",0.802079558356253,0.5748

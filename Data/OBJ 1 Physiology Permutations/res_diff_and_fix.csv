@@ -1,0 +1,5 @@
+variable,Cultivar,value_inf_vs_healthy,p_value
+fix,PA,0.6649076,1.00E-02
+fix,SB,2.5020464,1.00E-02
+diff,PA,0.6220282,0.0058
+diff,SB,0.8746888,0.0058
